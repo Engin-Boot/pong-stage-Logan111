@@ -15,7 +15,7 @@ Player/players with a mobile/pc having the game can play
 
   When the player press "Rate Us" option on menu bar
 
-  Then it redirect to playstore where the player can rate
+  Then it redirect to play store where the player can rate
 
 ### Scenario: how to exit the game
 
