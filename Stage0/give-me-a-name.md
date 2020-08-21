@@ -11,15 +11,15 @@ Player/players with a mobile/pc having the game can play
 
 ### Scenario: how to rate the user experience
 
-  Given the player launced the game and waiting in the lobby
+  Given the player launched the game and waiting in the lobby
 
   When the player press "Rate Us" option on menu bar
 
-  Then it redirects to playstore where the player can rate
+  Then it redirect to playstore where the player can rate
 
 ### Scenario: how to exit the game
 
-  Given the player launced the game and waiting in the lobby
+  Given the player launched the game and waiting in the lobby
 
   When the player press "exit" option on menu bar
 
