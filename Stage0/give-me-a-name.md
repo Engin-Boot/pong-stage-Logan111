@@ -32,3 +32,11 @@ Player/players with a mobile/pc having the game can play
   When the player press "Difficulty" option on menu bar
 
   Then it allows player to choose with three varieties of difficulty level
+  
+### Scenario: how to select the number of players to play
+
+  Given the player launched the game and willing to choose number of players
+
+  When the player press "choose player" option on menu bar
+
+  Then it allows player to choose with either single or multi player
