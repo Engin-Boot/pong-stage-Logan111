@@ -5,7 +5,6 @@
 This page allows player to opt for playing, Rate the game
 choose Difficulty, shop and exit
 
-
 ## Acceptance Criteria
 
 Player/players with a mobile/pc having the game can play
