@@ -24,3 +24,11 @@ Player/players with a mobile/pc having the game can play
   When the player press "exit" option on menu bar
 
   Then it quits player from the game
+  
+### Scenario: how to select the level of difficulty
+
+  Given the player launched the game and decided to play at some difficulty
+
+  When the player press "Difficulty" option on menu bar
+
+  Then it allows player to choose with three varieties of difficulty level
