@@ -4,10 +4,11 @@
 
 Able to create, rename and statistics
 
-### Scenario: Create a new plyer
+### Scenario: how to create a new player
 
   Given the game is launched and player haven't registered yet
-  When the player press "Create new player" 
+
+  When the player press "Create new player" option
 
   Then the player gets registered
 
