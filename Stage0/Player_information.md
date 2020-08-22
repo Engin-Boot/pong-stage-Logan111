@@ -12,16 +12,18 @@ Able to create, rename and statistics
 
   Then the player gets registered
 
-### Scenario: Rename a  plyer
+### Scenario: how to rename a player
 
-  Given the game is launched and the player had already registered 
-  When the player press "Rename" 
-  Then the player is able to rename
+  Given the game is launched and player had already registered
+
+  When the player press "Rename" option
+
+  Then the palyer is able to rename
   
-### Scenario: To view statistics
+### Scenario: how to view player stats
 
-  Given the game is launched and player is interested to see his stats
+  Given the game is aunched and player is interested to see his stats
 
-  When the player press "View Stats" 
+  When the player press "View stats" ption
 
   Then the player is able to view his last 10 matches results
