@@ -1,9 +1,5 @@
 # Game Play
 
-## Feature
-
-Play game, wait for players to get ready 
-
 ## Acceptance Criteria
 
 Player/players with a mobile/pc having the game can play
