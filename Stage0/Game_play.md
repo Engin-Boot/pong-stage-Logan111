@@ -6,7 +6,7 @@ Player/players with a mobile/pc having the game can play
 
 ### Scenario: How long does the players have to wait before starting
 
-  Given the playes launched the game and waiting for the game to start
+  Given players launched the game and waiting for the game to start
 
   When the player press "PLAY" option on menu
 
@@ -30,7 +30,7 @@ Player/players with a mobile/pc having the game can play
   
 ### Scenario: how to choose a winner
 
-  Given the players are already in game and having some scores
+  Given players are already in game and having some scores
 
   When any player score becomes equal to 9 and game stops
 
