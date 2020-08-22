@@ -1,0 +1,37 @@
+# Pong Ball
+
+## Feature
+
+Display all features like radius, color, position, velocity
+
+### Scenario: Set ball radius
+
+  Given the player launched the game and is in settings
+
+  When the player press "ball Radius" option on menu
+
+  Then the player is able to choose one from available three sizes
+
+### Scenario: how to change ball color
+
+  Given the player launched the game and is in settings mode
+
+  When the player press "change color" option on menu 
+
+  Then the player is given with various colors to choose
+  
+### Scenario: how to change velocity of ball
+
+  Given the player launched game and is in settings mode
+
+  When the player press "set velocity" option on menu
+
+  Then it allows player to choose one from three available options
+  
+### Scenario: how to change position of the ball
+
+  Given the player launched game and is in settings mode
+
+  When the player press "set position" option on menu
+
+  Then it allows player to choose one from top, bottom and middle option
