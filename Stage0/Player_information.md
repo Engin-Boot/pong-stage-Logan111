@@ -4,8 +4,6 @@
 
 Able to create, rename and statistics
 
-## Acceptance Criteria
-
 ### Scenario: Create a new plyer
 
   Given the game is launched and player haven't registered yet
