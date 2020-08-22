@@ -18,7 +18,7 @@ Able to create, rename and statistics
 
   When the player press "Rename" option
 
-  Then the palyer is able to rename
+  Then the player is able to rename
   
 ### Scenario: how to view player stats
 
