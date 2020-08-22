@@ -24,6 +24,6 @@ Able to create, rename and statistics
 
   Given the game is launched and player want to check his stats
 
-  When the player press "View stats nd username" option
+  When the player press "View stats and username" option
 
   Then the player is shown with his username and last 10 matches results
