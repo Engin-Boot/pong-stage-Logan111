@@ -56,3 +56,11 @@ Player/players with a mobile/pc having the game can play
   When the player press "Settings" option on menu bar
 
   Then it redirects player to choose settings for custom edits
+
+### Scenario: how to start game
+
+  Given the player launched game and waiting in the lobby to play
+
+  When the player press "PLAY" option on menu bar
+
+  Then all of ball, paddle and court get into position for game to start
