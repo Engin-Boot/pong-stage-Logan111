@@ -3,7 +3,7 @@
 ## Feature
 
 This page allows player to opt for playing, Rate the game
-choose Difficulty, shop and exit
+choose Difficulty,game settings, shop and exit
 
 ## Acceptance Criteria
 
@@ -48,3 +48,11 @@ Player/players with a mobile/pc having the game can play
   When the player press "Shop" option on menu bar
 
   Then it allows player to choose with different skin of court or ball  
+
+### Scenario: how to go to settings for custom edits
+
+  Given the player launched game and waiting in the lobby
+
+  When the player press "Settings" option on menu bar
+
+  Then it redirects player to choose settings for custom edits
