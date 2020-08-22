@@ -20,10 +20,10 @@ Able to create, rename and statistics
 
   Then the player is able to rename
   
-### Scenario: how to view player stats
+### Scenario: how to view player stats and username
 
-  Given the game is launched and player is interested to see his stats
+  Given the game is launched and player want to check his stats
 
-  When the player press "View stats" option
+  When the player press "View stats nd username" option
 
-  Then the player is able to view his last 10 matches results
+  Then the player is shown with his username and last 10 matches results
