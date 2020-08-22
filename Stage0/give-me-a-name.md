@@ -40,3 +40,11 @@ Player/players with a mobile/pc having the game can play
   When the player press "choose player" option on menu bar
 
   Then it allows player to choose with either single or multi player
+  
+### Scenario: how to shop for skin of court or ball
+
+  Given the player launched game and waiting in the lobby for colored skins
+
+  When the player press "Shop" option on menu bar
+
+  Then it allows player to choose with different skin of court or ball  
