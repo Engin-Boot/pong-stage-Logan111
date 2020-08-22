@@ -22,8 +22,8 @@ Able to create, rename and statistics
   
 ### Scenario: how to view player stats
 
-  Given the game is aunched and player is interested to see his stats
+  Given the game is launched and player is interested to see his stats
 
-  When the player press "View stats" ption
+  When the player press "View stats" option
 
   Then the player is able to view his last 10 matches results
