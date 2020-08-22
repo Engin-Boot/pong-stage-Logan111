@@ -4,7 +4,7 @@
 
 Player/players with a mobile/pc having the game can play
 
-### Scenario: How long does the players have to wait before starting
+### Scenario: How long does the players have to wait before action begins
 
   Given players launched the game and waiting for the game to start
 
