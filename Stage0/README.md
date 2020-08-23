@@ -1,6 +1,3 @@
 # UML Class Diagram for Pong Game
 
-<p align="center">
-  <img src="C:\Users\320105361\Pictures\Screenshots\class_diagram.png" width="350" title="hover text">
-  <img src="C:\Users\320105361\Pictures\Screenshots\class_diagram.png" width="350" alt="accessibility text">
-</p>
+![class_diagram png](https://user-images.githubusercontent.com/36372708/90984138-d3d19300-e590-11ea-89a3-5958c1033a12.png)
